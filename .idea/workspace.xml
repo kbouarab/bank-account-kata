@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7aa237a-d640-4a67-8dfd-b80a2bc3135e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/ConcurrentAccessTester.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/models/Account.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/models/Amount.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/models/Operation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/models/OperationLine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/models/Transaction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/bank-account-kata/services/AccountService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank-account-kata.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ConcurrentAccessTester.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Amount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Operation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/OperationLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Transaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/AccountService.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/ConcurrentAccessTester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/models/Account.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/models/Amount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/models/Operation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/models/OperationLine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/models/Transaction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/bank-account-kata/services/AccountService.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/src/ConcurrentAccessTester.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,8 +104,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="450">
+              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -731,15 +719,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498051014740</updated>
-      <workItem from="1498051017773" duration="1945000" />
+      <workItem from="1498051017773" duration="2455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1945000" />
+    <option name="totallyTimeSpent" value="2455000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2182" height="1402" extended-state="7" />
+    <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -890,7 +878,7 @@
     <entry file="file://$PROJECT_DIR$/src/ConcurrentAccessTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -899,8 +887,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="450">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
           <folding />
         </state>
       </provider>
